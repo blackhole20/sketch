@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+}
+ #score{
+     font-size: 20px;
+     margin-left: 10px;
+     float: left;
+ }
+
+ #timer{
+     font-size: 20px;
+     margin-right: 10px;
+     float: right;
+ }
+
+ #sketchtd{
+     color:red;
+     font-size: 25px;
+ }
